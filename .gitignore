@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.cxx/
+.externalNativeBuild/
+captures/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keystores (don’t commit your signing keys)
+*.jks
+*.keystore
+
+# Generated files
+app/release/
+app/debug/

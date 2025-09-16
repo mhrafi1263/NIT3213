@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">NIT3213</string>
+
+    <!-- App-wide -->
+    <string name="app_title">Fashion For Passion</string>
+
+    <!-- Login -->
+    <string name="login_title">Fashion For Passion</string>
+    <string name="login_username_hint">Username</string>
+    <string name="login_password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="error_missing_credentials">Please enter username and password</string>
+    <string name="error_network">Network error. Please try again.</string>
+
+    <!-- Dashboard -->
+    <string name="dashboard_title">Dashboard</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirm_title">Log out?</string>
+    <string name="logout_confirm_message">You will be returned to the login screen.</string>
+    <string name="logout_yes">Log out</string>
+    <string name="logout_no">Cancel</string>
+</resources>
